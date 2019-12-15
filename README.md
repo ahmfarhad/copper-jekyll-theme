@@ -1,9 +1,9 @@
-# Copper Jekyll theme - [DEMO](https://mpgn.github.io/copper-jekyll-theme)
+# Copper Jekyll theme - [DEMO](https://ahmfarhad.github.io/copper-jekyll-theme)
 
 ## Feature
-	
-- Markdown blogging 
-- Syntax highlighting  
+
+- Markdown blogging
+- Syntax highlighting
 - Fully responsive
 - Three differents categories handle
 - Two themes
@@ -15,14 +15,13 @@
 
 ## Two themes
 
-You can choose the use the left bar : 
+You can choose the use the left bar :
 
-![img1](https://mpgn.github.io/copper-jekyll-theme/assets/images/1.png)
+![img1](https://ahmfarhad.github.io/copper-jekyll-theme/assets/images/1.png)
 
 Or remove the left bar in the file `_config.yml` by setting `left_bar` to false !
 
-![img1](https://mpgn.github.io/copper-jekyll-theme/assets/images/2.png)
-
+![img1](https://ahmfarhad.github.io/copper-jekyll-theme/assets/images/2.png)
 
 ## Instruction
 
@@ -42,10 +41,11 @@ sticky: true -> if you want a star icon -this is not real sticky)
 ---
 ```
 
-4. create categories : 
+4. create categories :
 
 Add a file at the same level as `index.html`
 Then add this header into the file
+
 ```
 ---
 layout: category
@@ -57,18 +57,18 @@ category: Category-name
 
 And leave the rest of the file empty.
 
-Check the [demo](https://mpgn.github.io/copper-jekyll-theme) for example 
+Check the [demo](https://ahmfarhad.github.io/copper-jekyll-theme) for example
 
 5. push to Github and active Github page on the repo settings
 6. Enjoy ;)
 
 ## In the box
 
-- [Bootstrap 3](http://getbootstrap.com/) SASS framework 
+- [Bootstrap 3](http://getbootstrap.com/) SASS framework
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
-- [Jekyll Now](https://github.com/barryclark/jekyll-now) as a starting base. Many thanks to [Barry Clark](http://www.barryclark.co/) for creating this amazing base 
+- [Jekyll Now](https://github.com/barryclark/jekyll-now) as a starting base. Many thanks to [Barry Clark](http://www.barryclark.co/) for creating this amazing base
 - [FontAwesome](http://fontawesome.io/) icons
 
 ## Licence
 
-Copper theme is under MIT licence ! 
+Copper theme is under MIT licence !
